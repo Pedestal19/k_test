@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc8976d9-a013-4e6f-9a61-65d490913233" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YbrmkVTGjNlSKMAT6xAyeGb8OV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MinMaxKt">
+    <configuration name="HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlintest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HelloKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlintest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="InputsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinMaxKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlintest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MinMaxKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MinMaxKt" />
+        <item itemvalue="Kotlin.InputsKt" />
+        <item itemvalue="Kotlin.HelloKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc8976d9-a013-4e6f-9a61-65d490913233" name="Default Changelist" comment="" />
+      <created>1583222295540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583222295540</updated>
+      <workItem from="1583222299502" duration="528000" />
+      <workItem from="1583238991378" duration="1889000" />
+      <workItem from="1584017732730" duration="1086000" />
+      <workItem from="1585523104533" duration="512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583222533186">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1583222533186" />
+    <state width="1398" height="471" key="GridCell.Tab.-1.bottom" timestamp="1584018431509">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.-1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584018431509" />
+    <state width="1398" height="471" key="GridCell.Tab.-1.center" timestamp="1584018431508">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.-1.center/0.0.1440.900@0.0.1440.900" timestamp="1584018431508" />
+    <state width="1398" height="471" key="GridCell.Tab.-1.left" timestamp="1584018431507">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.-1.left/0.0.1440.900@0.0.1440.900" timestamp="1584018431507" />
+    <state width="1398" height="471" key="GridCell.Tab.-1.right" timestamp="1584018431508">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.-1.right/0.0.1440.900@0.0.1440.900" timestamp="1584018431508" />
+    <state width="1398" height="373" key="GridCell.Tab.0.bottom" timestamp="1584101466547">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584101466547" />
+    <state width="672" height="225" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583322959761" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583222829140" />
+    <state width="1398" height="373" key="GridCell.Tab.0.center" timestamp="1584101466546">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584101466546" />
+    <state width="672" height="225" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1583322959760" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583222829139" />
+    <state width="1398" height="373" key="GridCell.Tab.0.left" timestamp="1584101466545">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584101466545" />
+    <state width="672" height="225" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1583322959759" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583222829138" />
+    <state width="1398" height="373" key="GridCell.Tab.0.right" timestamp="1584101466546">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584101466546" />
+    <state width="672" height="225" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1583322959761" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583222829139" />
+    <state width="1398" height="471" key="GridCell.Tab.1.bottom" timestamp="1584018429524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584018429524" />
+    <state width="672" height="225" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583322945629" />
+    <state width="1398" height="471" key="GridCell.Tab.1.center" timestamp="1584018429523">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584018429523" />
+    <state width="672" height="225" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1583322945627" />
+    <state width="1398" height="471" key="GridCell.Tab.1.left" timestamp="1584018429522">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584018429522" />
+    <state width="672" height="225" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1583322945627" />
+    <state width="1398" height="471" key="GridCell.Tab.1.right" timestamp="1584018429523">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="471" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584018429523" />
+    <state width="672" height="225" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1583322945628" />
+    <state x="673" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1585524507096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="673" y="412" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1585524507096" />
+    <state x="673" y="412" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584018161513" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Inputs.kt</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/MinMax.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
